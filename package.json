@@ -1,0 +1,26 @@
+{
+  "name": "petebar",
+  "version": "0.0.1",
+  "description": "lol",
+  "main": "index.js",
+  "engines": {
+    "node": ">=7.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^1.6.3"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brousalis/petebar.git"
+  },
+  "author": "Pete Brousalis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brousalis/petebar/issues"
+  },
+  "homepage": "https://github.com/brousalis/petebar#readme"
+}
